@@ -1,5 +1,7 @@
 # Internet Banking Solution (.NET Core)
 
+![.NET Core CI](https://github.com/RajeevHande/InternetBankingSolution/actions/workflows/dotnet.yml/badge.svg)
+
 ## 📌 Overview
 This project is a practice implementation of an Internet Banking system using modern .NET Core architecture.
 It demonstrates:
