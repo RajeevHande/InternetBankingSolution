@@ -28,6 +28,9 @@ jobs:
     - name: Run tests with coverage
       run: dotnet test InternetBankingSolution.slnx --no-build --collect:"XPlat Code Coverage"
 
+    - name: Install ReportGenerator
+      run: dotnet tool install --global dotnet-reportgenerator-globaltool
+
     - name: Generate coverage report
       run: reportgenerator -reports:**/coverage.cobertura.xml -targetdir:coverage-report -reporttypes:Html
 
