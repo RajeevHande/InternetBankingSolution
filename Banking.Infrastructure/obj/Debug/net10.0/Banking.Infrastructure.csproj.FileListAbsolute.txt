@@ -1,0 +1,11 @@
+E:\RH-Code-Development\IBS\Banking.Infrastructure\bin\Debug\net10.0\Banking.Infrastructure.deps.json
+E:\RH-Code-Development\IBS\Banking.Infrastructure\bin\Debug\net10.0\Banking.Infrastructure.dll
+E:\RH-Code-Development\IBS\Banking.Infrastructure\bin\Debug\net10.0\Banking.Infrastructure.pdb
+E:\RH-Code-Development\IBS\Banking.Infrastructure\obj\Debug\net10.0\Banking.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\RH-Code-Development\IBS\Banking.Infrastructure\obj\Debug\net10.0\Banking.Infrastructure.AssemblyInfoInputs.cache
+E:\RH-Code-Development\IBS\Banking.Infrastructure\obj\Debug\net10.0\Banking.Infrastructure.AssemblyInfo.cs
+E:\RH-Code-Development\IBS\Banking.Infrastructure\obj\Debug\net10.0\Banking.Infrastructure.csproj.CoreCompileInputs.cache
+E:\RH-Code-Development\IBS\Banking.Infrastructure\obj\Debug\net10.0\Banking.Infrastructure.dll
+E:\RH-Code-Development\IBS\Banking.Infrastructure\obj\Debug\net10.0\refint\Banking.Infrastructure.dll
+E:\RH-Code-Development\IBS\Banking.Infrastructure\obj\Debug\net10.0\Banking.Infrastructure.pdb
+E:\RH-Code-Development\IBS\Banking.Infrastructure\obj\Debug\net10.0\ref\Banking.Infrastructure.dll

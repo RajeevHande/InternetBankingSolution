@@ -1,0 +1,11 @@
+E:\RH-Code-Development\IBS\Banking.Services.Accounts\bin\Debug\net10.0\Banking.Services.Accounts.deps.json
+E:\RH-Code-Development\IBS\Banking.Services.Accounts\bin\Debug\net10.0\Banking.Services.Accounts.dll
+E:\RH-Code-Development\IBS\Banking.Services.Accounts\bin\Debug\net10.0\Banking.Services.Accounts.pdb
+E:\RH-Code-Development\IBS\Banking.Services.Accounts\obj\Debug\net10.0\Banking.Services.Accounts.GeneratedMSBuildEditorConfig.editorconfig
+E:\RH-Code-Development\IBS\Banking.Services.Accounts\obj\Debug\net10.0\Banking.Services.Accounts.AssemblyInfoInputs.cache
+E:\RH-Code-Development\IBS\Banking.Services.Accounts\obj\Debug\net10.0\Banking.Services.Accounts.AssemblyInfo.cs
+E:\RH-Code-Development\IBS\Banking.Services.Accounts\obj\Debug\net10.0\Banking.Services.Accounts.csproj.CoreCompileInputs.cache
+E:\RH-Code-Development\IBS\Banking.Services.Accounts\obj\Debug\net10.0\Banking.Services.Accounts.dll
+E:\RH-Code-Development\IBS\Banking.Services.Accounts\obj\Debug\net10.0\refint\Banking.Services.Accounts.dll
+E:\RH-Code-Development\IBS\Banking.Services.Accounts\obj\Debug\net10.0\Banking.Services.Accounts.pdb
+E:\RH-Code-Development\IBS\Banking.Services.Accounts\obj\Debug\net10.0\ref\Banking.Services.Accounts.dll

@@ -1,0 +1,11 @@
+E:\RH-Code-Development\IBS\Banking.Services.Payments\bin\Debug\net10.0\Banking.Services.Payments.deps.json
+E:\RH-Code-Development\IBS\Banking.Services.Payments\bin\Debug\net10.0\Banking.Services.Payments.dll
+E:\RH-Code-Development\IBS\Banking.Services.Payments\bin\Debug\net10.0\Banking.Services.Payments.pdb
+E:\RH-Code-Development\IBS\Banking.Services.Payments\obj\Debug\net10.0\Banking.Services.Payments.GeneratedMSBuildEditorConfig.editorconfig
+E:\RH-Code-Development\IBS\Banking.Services.Payments\obj\Debug\net10.0\Banking.Services.Payments.AssemblyInfoInputs.cache
+E:\RH-Code-Development\IBS\Banking.Services.Payments\obj\Debug\net10.0\Banking.Services.Payments.AssemblyInfo.cs
+E:\RH-Code-Development\IBS\Banking.Services.Payments\obj\Debug\net10.0\Banking.Services.Payments.csproj.CoreCompileInputs.cache
+E:\RH-Code-Development\IBS\Banking.Services.Payments\obj\Debug\net10.0\Banking.Services.Payments.dll
+E:\RH-Code-Development\IBS\Banking.Services.Payments\obj\Debug\net10.0\refint\Banking.Services.Payments.dll
+E:\RH-Code-Development\IBS\Banking.Services.Payments\obj\Debug\net10.0\Banking.Services.Payments.pdb
+E:\RH-Code-Development\IBS\Banking.Services.Payments\obj\Debug\net10.0\ref\Banking.Services.Payments.dll

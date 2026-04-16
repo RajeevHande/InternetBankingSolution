@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="Banking.API/Banking.API.csproj" />
+  <Project Path="Banking.Infrastructure/Banking.Infrastructure.csproj" />
+  <Project Path="Banking.Services.Accounts/Banking.Services.Accounts.csproj" />
+  <Project Path="Banking.Services.Payments/Banking.Services.Payments.csproj" />
+  <Project Path="Banking.UnitTests/Banking.UnitTests.csproj" />
+  <Project Path="Banking.WebUI/Banking.WebUI.csproj" />
+</Solution>
