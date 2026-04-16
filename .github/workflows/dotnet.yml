@@ -20,13 +20,13 @@ jobs:
         dotnet-version: '8.0.x'
 
     - name: Restore dependencies
-      run: dotnet restore InternetBankingSolution.sln
+      run: dotnet restore InternetBankingSolution.slnx
 
     - name: Build solution
-      run: dotnet build InternetBankingSolution.sln --no-restore --configuration Release
+      run: dotnet build InternetBankingSolution.slnx --no-restore --configuration Release
 
     - name: Run tests with coverage
-      run: dotnet test InternetBankingSolution.sln --no-build --collect:"XPlat Code Coverage"
+      run: dotnet test InternetBankingSolution.slnx --no-build --collect:"XPlat Code Coverage"
 
     - name: Generate coverage report
       run: reportgenerator -reports:**/coverage.cobertura.xml -targetdir:coverage-report -reporttypes:Html
